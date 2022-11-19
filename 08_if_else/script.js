@@ -170,7 +170,7 @@ if (discharge % 100 == 0 && String(discharge).length == "3") {
   sot = +(discharge - ostatok[1]);
   sotni();
 
-  ed = +(ostatok[1]);
+  ed = +(ostatok[1]) ;
   edinici();
 
   stringNumber = (sot + " " + ed);
