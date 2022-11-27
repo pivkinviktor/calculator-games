@@ -1,0 +1,14 @@
+
+body {background-color: black;}
+h3   {color: blue; 
+    font-family: verdana;
+    font-size: 300%;}
+h4 {color: blue; 
+    font-family: verdana;
+    font-size: 300%;}
+h5    {color: red;
+    font-family: courier;
+    font-size: 160%;}
+
+.card-footer {
+        background-color: yellow};
